@@ -1,0 +1,96 @@
+  {
+    "COURSE_ID": 301,
+    "NAME": "Mathematics",
+    "TERM": 3,
+    "TYPE": "BSc"
+  },
+  {
+    "COURSE_ID": 302,
+    "NAME": "Business Administration",
+    "TERM": 3,
+    "TYPE": "BSC"
+  },
+  {
+    "COURSE_ID": 303,
+    "NAME": "Commerce",
+    "TERM": 3,
+    "TYPE": "B.Com"
+  },
+  {
+    "COURSE_ID": 304,
+    "NAME": "Visual Communication",
+    "TERM": 3,
+    "TYPE": "BSc"
+  },
+  {
+    "COURSE_ID": 305,
+    "NAME": "English",
+    "TERM": 2,
+    "TYPE": "BA"
+  },
+  {
+    "COURSE_ID": 306,
+    "NAME": "Mathematics",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 307,
+    "NAME": "Chemistry",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 308,
+    "NAME": "social works",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 309,
+    "NAME": "Physics",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 310,
+    "NAME": "Biotechnology",
+    "TERM": 3,
+    "TYPE": "BSc"
+  },
+  {
+    "COURSE_ID": 311,
+    "NAME": "Mass Communication",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 312,
+    "NAME": "Computer Science",
+    "TERM": 3,
+    "TYPE": "BSC"
+  },
+  {
+    "COURSE_ID": 313,
+    "NAME": "Computer Science",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 314,
+    "NAME": "Biochemistry",
+    "TERM": 2,
+    "TYPE": "MSc"
+  },
+  {
+    "COURSE_ID": 315,
+    "NAME": "Statistics",
+    "TERM": 3,
+    "TYPE": "BSc"
+  },
+  {
+    "COURSE_ID": 316,
+    "NAME": "Microbiology",
+    "TERM": 3,
+    "TYPE": "BSc"
+  }

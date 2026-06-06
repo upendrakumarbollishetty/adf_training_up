@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "customer_id": "C_123",
+      "name": "Uday",
+      "email": "Uday@gmail.com",
+      "orders": [
+					{
+					  "order_id": "O123",
+					  "date": "2026-04-27",
+					  "total": 500,
+					  "products": [
+									{
+									  "product_id": "P01",
+									  "name": "Margherita Pizza",
+									  "qty": 1,
+									  "price": 200
+									},
+									{
+									  "product_id": "P02",
+									  "name": "Garlic Bread",
+									  "qty": 2,
+									  "price": 100
+									},
+									{
+									  "product_id": "P03",
+									  "name": "Coke",
+									  "qty": 3,
+									  "price": 200
+									}
+					  ]
+					}
+               ]
+    },
+    {
+      "customer_id": "C_124",
+      "name": "Siva",
+      "email": "Siva@example.com",
+      "orders": [
+        {
+          "order_id": "O124",
+          "date": "2026-04-27",
+          "total": 600,
+          "products": [
+            {
+              "product_id": "P02",
+              "name": "Garlic Bread",
+              "qty": 1,
+              "price": 200
+            },
+            {
+              "product_id": "P04",
+              "name": "Veggie Pizza",
+              "qty": 1,
+              "price": 200
+            },
+            {
+              "product_id": "P05",
+              "name": "Brownie",
+              "qty": 2,
+              "price": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
