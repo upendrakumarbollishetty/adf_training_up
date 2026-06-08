@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<healthcare_data>
+
+    <!-- ==================== DOCTORS ==================== -->
+    <doctors>
+        <doctor>
+            <doctor_id>D001</doctor_id>
+            <first_name>Rajesh</first_name>
+            <last_name>Sharma</last_name>
+            <specialty>Cardiology</specialty>
+            <license_number>MH-CARD-10234</license_number>
+            <phone>+91-9876543210</phone>
+            <email>rajesh.sharma@cityhosp.com</email>
+            <department>Cardiology</department>
+            <years_of_experience>18</years_of_experience>
+            <hospital>City Heart Hospital</hospital>
+            <active>true</active>
+        </doctor>
+        <doctor>
+            <doctor_id>D002</doctor_id>
+            <first_name>Priya</first_name>
+            <last_name>Mehta</last_name>
+            <specialty>Neurology</specialty>
+            <license_number>DL-NEURO-50821</license_number>
+            <phone>+91-9845012345</phone>
+            <email>priya.mehta@braincarehosp.com</email>
+            <department>Neurology</department>
+            <years_of_experience>12</years_of_experience>
+            <hospital>BrainCare Institute</hospital>
+            <active>true</active>
+        </doctor>
+        <doctor>
+            <doctor_id>D003</doctor_id>
+            <first_name>Anil</first_name>
+            <last_name>Verma</last_name>
+            <specialty>Orthopedics</specialty>
+            <license_number>KA-ORTHO-77432</license_number>
+            <phone>+91-9900112233</phone>
+            <email>anil.verma@bonecare.com</email>
+            <department>Orthopedics</department>
+            <years_of_experience>22</years_of_experience>
+            <hospital>BoneCare Medical Center</hospital>
+            <active>true</active>
+        </doctor>
+        <doctor>
+            <doctor_id>D004</doctor_id>
+            <first_name>Sunita</first_name>
+            <last_name>Rao</last_name>
+            <specialty>Oncology</specialty>
+            <license_number>TG-ONCO-34512</license_number>
+            <phone>+91-9123456789</phone>
+            <email>sunita.rao@cancercare.com</email>
+            <department>Oncology</department>
+            <years_of_experience>15</years_of_experience>
+            <hospital>LifeCare Cancer Center</hospital>
+            <active>true</active>
+        </doctor>
+        <doctor>
+            <doctor_id>D005</doctor_id>
+            <first_name>Kiran</first_name>
+            <last_name>Patel</last_name>
+            <specialty>General Medicine</specialty>
+            <license_number>GJ-GM-90123</license_number>
+            <phone>+91-9012345678</phone>
+            <email>kiran.patel@generalhosp.com</email>
+            <department>General Medicine</department>
+            <years_of_experience>10</years_of_experience>
+            <hospital>General City Hospital</hospital>
+            <active>false</active>
+        </doctor>
+    </doctors>
+
+    <!-- ==================== PATIENTS ==================== -->
+    <patients>
+        <patient>
+            <patient_id>P001</patient_id>
+            <first_name>Amit</first_name>
+            <last_name>Kumar</last_name>
+            <date_of_birth>1985-06-15</date_of_birth>
+            <gender>Male</gender>
+            <blood_group>B+</blood_group>
+            <phone>+91-9871234560</phone>
+            <email>amit.kumar@gmail.com</email>
+            <address>
+                <street>12, MG Road</street>
+                <city>Hyderabad</city>
+                <state>Telangana</state>
+                <pincode>500001</pincode>
+            </address>
+            <emergency_contact>
+                <name>Rekha Kumar</name>
+                <relation>Spouse</relation>
+                <phone>+91-9871234561</phone>
+            </emergency_contact>
+            <insurance_id>INS-HYD-100234</insurance_id>
+            <allergies>Penicillin</allergies>
+            <registered_date>2022-03-10</registered_date>
+        </patient>
+        <patient>
+            <patient_id>P002</patient_id>
+            <first_name>Deepa</first_name>
+            <last_name>Nair</last_name>
+            <date_of_birth>1990-11-28</date_of_birth>
+            <gender>Female</gender>
+            <blood_group>O-</blood_group>
+            <phone>+91-9845098765</phone>
+            <email>deepa.nair@yahoo.com</email>
+            <address>
+                <street>45, Jubilee Hills</street>
+                <city>Hyderabad</city>
+                <state>Telangana</state>
+                <pincode>500033</pincode>
+            </address>
+            <emergency_contact>
+                <name>Suresh Nair</name>
+                <relation>Father</relation>
+                <phone>+91-9845098766</phone>
+            </emergency_contact>
+            <insurance_id>INS-HYD-200456</insurance_id>
+            <allergies>None</allergies>
+            <registered_date>2023-01-22</registered_date>
+        </patient>
+        <patient>
+            <patient_id>P003</patient_id>
+            <first_name>Ravi</first_name>
+            <last_name>Shankar</last_name>
+            <date_of_birth>1972-03-05</date_of_birth>
+            <gender>Male</gender>
+            <blood_group>A+</blood_group>
+            <phone>+91-9900223344</phone>
+            <email>ravi.shankar@hotmail.com</email>
+            <address>
+                <street>78, Banjara Hills</street>
+                <city>Hyderabad</city>
+                <state>Telangana</state>
+                <pincode>500034</pincode>
+            </address>
+            <emergency_contact>
+                <name>Latha Shankar</name>
+                <relation>Spouse</relation>
+                <phone>+91-9900223345</phone>
+            </emergency_contact>
+            <insurance_id>INS-HYD-300789</insurance_id>
+            <allergies>Sulfa, Aspirin</allergies>
+            <registered_date>2021-07-18</registered_date>
+        </patient>
+        <patient>
+            <patient_id>P004</patient_id>
+            <first_name>Meena</first_name>
+            <last_name>Iyer</last_name>
+            <date_of_birth>1995-08-20</date_of_birth>
+            <gender>Female</gender>
+            <blood_group>AB+</blood_group>
+            <phone>+91-9123098765</phone>
+            <email>meena.iyer@gmail.com</email>
+            <address>
+                <street>22, Gachibowli</street>
+                <city>Hyderabad</city>
+                <state>Telangana</state>
+                <pincode>500032</pincode>
+            </address>
+            <emergency_contact>
+                <name>Gopal Iyer</name>
+                <relation>Brother</relation>
+                <phone>+91-9123098766</phone>
+            </emergency_contact>
+            <insurance_id>INS-HYD-400321</insurance_id>
+            <allergies>Latex</allergies>
+            <registered_date>2023-05-30</registered_date>
+        </patient>
+        <patient>
+            <patient_id>P005</patient_id>
+            <first_name>Suresh</first_name>
+            <last_name>Reddy</last_name>
+            <date_of_birth>1968-12-01</date_of_birth>
+            <gender>Male</gender>
+            <blood_group>O+</blood_group>
+            <phone>+91-9012345670</phone>
+            <email>suresh.reddy@gmail.com</email>
+            <address>
+                <street>5, Secunderabad</street>
+                <city>Hyderabad</city>
+                <state>Telangana</state>
+                <pincode>500003</pincode>
+            </address>
+            <emergency_contact>
+                <name>Kavitha Reddy</name>
+                <relation>Daughter</relation>
+                <phone>+91-9012345671</phone>
+            </emergency_contact>
+            <insurance_id>INS-HYD-500654</insurance_id>
+            <allergies>None</allergies>
+            <registered_date>2020-11-05</registered_date>
+        </patient>
+    </patients>
+
+    <!-- ==================== TREATMENTS ==================== -->
+    <treatments>
+        <treatment>
+            <treatment_id>T001</treatment_id>
+            <patient_id>P001</patient_id>
+            <doctor_id>D001</doctor_id>
+            <diagnosis>Hypertensive Heart Disease</diagnosis>
+            <treatment_type>Medication</treatment_type>
+            <admission_date>2024-01-10</admission_date>
+            <discharge_date>2024-01-15</discharge_date>
+            <ward>Cardiology Ward A</ward>
+            <room_number>101</room_number>
+            <status>Completed</status>
+            <medications>
+                <medication>
+                    <name>Amlodipine</name>
+                    <dosage>5mg</dosage>
+                    <frequency>Once daily</frequency>
+                    <duration_days>30</duration_days>
+                </medication>
+                <medication>
+                    <name>Losartan</name>
+                    <dosage>50mg</dosage>
+                    <frequency>Once daily</frequency>
+                    <duration_days>30</duration_days>
+                </medication>
+            </medications>
+            <procedures>
+                <procedure>ECG</procedure>
+                <procedure>Echocardiogram</procedure>
+                <procedure>Blood Pressure Monitoring</procedure>
+            </procedures>
+            <total_cost>45000.00</total_cost>
+            <insurance_covered>40000.00</insurance_covered>
+            <patient_paid>5000.00</patient_paid>
+            <follow_up_date>2024-02-10</follow_up_date>
+            <notes>Patient responded well to medication. Blood pressure stabilized.</notes>
+        </treatment>
+
+        <treatment>
+            <treatment_id>T002</treatment_id>
+            <patient_id>P002</patient_id>
+            <doctor_id>D002</doctor_id>
+            <diagnosis>Migraine with Aura</diagnosis>
+            <treatment_type>Outpatient</treatment_type>
+            <admission_date>2024-02-05</admission_date>
+            <discharge_date>2024-02-05</discharge_date>
+            <ward>OPD</ward>
+            <room_number>OPD-12</room_number>
+            <status>Completed</status>
+            <medications>
+                <medication>
+                    <name>Sumatriptan</name>
+                    <dosage>50mg</dosage>
+                    <frequency>As needed</frequency>
+                    <duration_days>15</duration_days>
+                </medication>
+                <medication>
+                    <name>Topiramate</name>
+                    <dosage>25mg</dosage>
+                    <frequency>Twice daily</frequency>
+                    <duration_days>60</duration_days>
+                </medication>
+            </medications>
+            <procedures>
+                <procedure>MRI Brain</procedure>
+                <procedure>Neurological Examination</procedure>
+            </procedures>
+            <total_cost>12000.00</total_cost>
+            <insurance_covered>10000.00</insurance_covered>
+            <patient_paid>2000.00</patient_paid>
+            <follow_up_date>2024-03-05</follow_up_date>
+            <notes>MRI showed no structural abnormalities. Preventive therapy started.</notes>
+        </treatment>
+
+        <treatment>
+            <treatment_id>T003</treatment_id>
+            <patient_id>P003</patient_id>
+            <doctor_id>D003</doctor_id>
+            <diagnosis>Lumbar Disc Herniation</diagnosis>
+            <treatment_type>Surgery</treatment_type>
+            <admission_date>2024-03-12</admission_date>
+            <discharge_date>2024-03-19</discharge_date>
+            <ward>Orthopedic Ward B</ward>
+            <room_number>205</room_number>
+            <status>Completed</status>
+            <medications>
+                <medication>
+                    <name>Ibuprofen</name>
+                    <dosage>400mg</dosage>
+                    <frequency>Thrice daily after meals</frequency>
+                    <duration_days>14</duration_days>
+                </medication>
+                <medication>
+                    <name>Pregabalin</name>
+                    <dosage>75mg</dosage>
+                    <frequency>Twice daily</frequency>
+                    <duration_days>21</duration_days>
+                </medication>
+            </medications>
+            <procedures>
+                <procedure>MRI Spine</procedure>
+                <procedure>Microdiscectomy Surgery</procedure>
+                <procedure>Post-op Physiotherapy</procedure>
+            </procedures>
+            <total_cost>150000.00</total_cost>
+            <insurance_covered>120000.00</insurance_covered>
+            <patient_paid>30000.00</patient_paid>
+            <follow_up_date>2024-04-12</follow_up_date>
+            <notes>Surgery successful. Patient advised physiotherapy for 6 weeks.</notes>
+        </treatment>
+
+        <treatment>
+            <treatment_id>T004</treatment_id>
+            <patient_id>P004</patient_id>
+            <doctor_id>D004</doctor_id>
+            <diagnosis>Stage II Breast Cancer</diagnosis>
+            <treatment_type>Chemotherapy</treatment_type>
+            <admission_date>2024-04-01</admission_date>
+            <discharge_date>2024-10-01</discharge_date>
+            <ward>Oncology Ward C</ward>
+            <room_number>310</room_number>
+            <status>Ongoing</status>
+            <medications>
+                <medication>
+                    <name>Doxorubicin</name>
+                    <dosage>60mg/m2</dosage>
+                    <frequency>Every 21 days</frequency>
+                    <duration_days>126</duration_days>
+                </medication>
+                <medication>
+                    <name>Cyclophosphamide</name>
+                    <dosage>600mg/m2</dosage>
+                    <frequency>Every 21 days</frequency>
+                    <duration_days>126</duration_days>
+                </medication>
+            </medications>
+            <procedures>
+                <procedure>Biopsy</procedure>
+                <procedure>PET Scan</procedure>
+                <procedure>Chemotherapy Sessions</procedure>
+                <procedure>Blood Work Monitoring</procedure>
+            </procedures>
+            <total_cost>850000.00</total_cost>
+            <insurance_covered>750000.00</insurance_covered>
+            <patient_paid>100000.00</patient_paid>
+            <follow_up_date>2024-11-01</follow_up_date>
+            <notes>Patient tolerating chemotherapy well. Regular CBC monitoring in progress.</notes>
+        </treatment>
+
+        <treatment>
+            <treatment_id>T005</treatment_id>
+            <patient_id>P005</patient_id>
+            <doctor_id>D005</doctor_id>
+            <diagnosis>Type 2 Diabetes Mellitus</diagnosis>
+            <treatment_type>Outpatient</treatment_type>
+            <admission_date>2024-05-20</admission_date>
+            <discharge_date>2024-05-20</discharge_date>
+            <ward>OPD</ward>
+            <room_number>OPD-08</room_number>
+            <status>Ongoing</status>
+            <medications>
+                <medication>
+                    <name>Metformin</name>
+                    <dosage>500mg</dosage>
+                    <frequency>Twice daily with meals</frequency>
+                    <duration_days>90</duration_days>
+                </medication>
+                <medication>
+                    <name>Glimepiride</name>
+                    <dosage>2mg</dosage>
+                    <frequency>Once daily before breakfast</frequency>
+                    <duration_days>90</duration_days>
+                </medication>
+            </medications>
+            <procedures>
+                <procedure>HbA1c Test</procedure>
+                <procedure>Fasting Blood Glucose</procedure>
+                <procedure>Diet Counseling</procedure>
+            </procedures>
+            <total_cost>8000.00</total_cost>
+            <insurance_covered>6000.00</insurance_covered>
+            <patient_paid>2000.00</patient_paid>
+            <follow_up_date>2024-08-20</follow_up_date>
+            <notes>HbA1c at 8.2%. Target below 7%. Dietary modifications advised.</notes>
+        </treatment>
+    </treatments>
+
+</healthcare_data>

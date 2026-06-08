@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <EMPNO>7369</EMPNO>
+  <ENAME>Harris</ENAME>
+  <JOB>CLERK</JOB>
+  <MGR>7902</MGR>
+  <HIREDATE>17-DEC-80</HIREDATE>
+  <SAL>10000</SAL>
+  <DEPTNO>20</DEPTNO>
+ </ROW>
+</ROWSET>

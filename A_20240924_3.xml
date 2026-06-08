@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<td:AuctionData xmlns:td="http://www.treasurydirect.gov/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.treasurydirect.gov/ https://www.treasurydirect.gov/xsd/Auction_v6_0_0.xsd">
+<AuctionAnnouncement>
+<SecurityTermWeekYear>17-WEEK</SecurityTermWeekYear>
+<SecurityTermDayMonth>119-DAY</SecurityTermDayMonth>
+<SecurityType>BILL</SecurityType>
+<CUSIP>912797MZ7</CUSIP>
+<AnnouncementDate>2026-04-20</AnnouncementDate>
+<AdjustedAccruedInterest/>
+<Callable/>
+<CallDate/>
+</AuctionAnnouncement>
+</td:AuctionData>
