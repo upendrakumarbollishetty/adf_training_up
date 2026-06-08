@@ -1,0 +1,34 @@
+{
+	"data_set":"SBI_CREDIT_CARDS_INFO",
+	"extract_date":"2026-04-14",
+	"credit_cards": [
+    {
+        "CreditCardNo": "426245 4006645225",
+        "CreditCardHolder": "Alfreda A. Martin",
+        "CardPin": "6747",
+        "CardCVV": "884",
+        "CardExpiry": "09/30"
+    },
+    {
+        "CreditCardNo": "638408 0911882905",
+        "CreditCardHolder": "Thomas D. Garcia",
+        "CardPin": "3633",
+        "CardCVV": "188",
+        "CardExpiry": "10/34"
+    },
+    {
+        "CreditCardNo": "371732 4156688274",
+        "CreditCardHolder": "John S. Taylor",
+        "CardPin": "3780",
+        "CardCVV": "762",
+        "CardExpiry": "09/28"
+    },
+    {
+        "CreditCardNo": "815830 7583199651",
+        "CreditCardHolder": "Thomas A. Jackson",
+        "CardPin": "4173",
+        "CardCVV": "353",
+        "CardExpiry": "09/39"
+    }		
+	]
+}

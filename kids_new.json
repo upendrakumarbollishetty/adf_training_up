@@ -1,0 +1,60 @@
+{
+  "CITY": "Hyderabad",
+  "DOB": "1988-08-25",
+  "GENDER": "Male",
+  "HOUSE_NUMBER": "8-3-655",
+  "KIDS_NAME": "Pavan",
+  "KIDS_SCHOOL": "Bhashyam",
+  "NAME": "Bala",
+  "OFFICE_NUMBER": 9898787655,
+  "PERSONAL_NUMBER": 9898787656,
+  "STATE": "Telangana"
+},
+{
+  "CITY": "Hyderabad",
+  "DOB": "1988-08-25",
+  "GENDER": "Male",
+  "HOUSE_NUMBER": "8-3-655",
+  "KIDS_NAME": "Chandra",
+  "KIDS_SCHOOL": "Chaitanya",
+  "NAME": "Bala",
+  "OFFICE_NUMBER": 9898787655,
+  "PERSONAL_NUMBER": 9898787656,
+  "STATE": "Telangana"
+},
+{
+  "CITY": "Banglore",
+  "DOB": "1988-09-12",
+  "GENDER": "Female",
+  "HOUSE_NUMBER": "8-3-656",
+  "KIDS_NAME": "Ravi",
+  "KIDS_SCHOOL": "Narayana",
+  "NAME": "Jaya",
+  "OFFICE_NUMBER": 9898787657,
+  "PERSONAL_NUMBER": 9898787658,
+  "STATE": "Karnataka"
+},
+{
+  "CITY": "Banglore",
+  "DOB": "1988-09-12",
+  "GENDER": "Female",
+  "HOUSE_NUMBER": "8-3-656",
+  "KIDS_NAME": "Kiran",
+  "KIDS_SCHOOL": "DPS",
+  "NAME": "Jaya",
+  "OFFICE_NUMBER": 9898787657,
+  "PERSONAL_NUMBER": 9898787658,
+  "STATE": "Karnataka"
+},
+{
+  "CITY": "Banglore",
+  "DOB": "1988-09-12",
+  "GENDER": "Female",
+  "HOUSE_NUMBER": "8-3-656",
+  "KIDS_NAME": "Swathi",
+  "KIDS_SCHOOL": "SLATE",
+  "NAME": "Jaya",
+  "OFFICE_NUMBER": 9898787657,
+  "PERSONAL_NUMBER": 9898787658,
+  "STATE": "Karnataka"
+}

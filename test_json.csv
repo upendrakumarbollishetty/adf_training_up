@@ -1,0 +1,49 @@
+OBJECT_CONSTRUCT(*)
+"{
+  ""COLUMN_NAME"": ""Car_Model"",
+  ""EXPRESSION"": ""$1:Car_Model::TEXT"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 0,
+  ""TYPE"": ""TEXT""
+}"
+"{
+  ""COLUMN_NAME"": ""Car_Model_Year"",
+  ""EXPRESSION"": ""$1:Car_Model_Year::NUMBER(4, 0)"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 1,
+  ""TYPE"": ""NUMBER(4, 0)""
+}"
+"{
+  ""COLUMN_NAME"": ""car_make"",
+  ""EXPRESSION"": ""$1:car_make::TEXT"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 2,
+  ""TYPE"": ""TEXT""
+}"
+"{
+  ""COLUMN_NAME"": ""first_name"",
+  ""EXPRESSION"": ""$1:first_name::TEXT"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 3,
+  ""TYPE"": ""TEXT""
+}"
+"{
+  ""COLUMN_NAME"": ""id"",
+  ""EXPRESSION"": ""$1:id::NUMBER(3, 0)"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 4,
+  ""TYPE"": ""NUMBER(3, 0)""
+}"
+"{
+  ""COLUMN_NAME"": ""last_name"",
+  ""EXPRESSION"": ""$1:last_name::TEXT"",
+  ""FILENAMES"": ""car.json.gz"",
+  ""NULLABLE"": true,
+  ""ORDER_ID"": 5,
+  ""TYPE"": ""TEXT""
+}"

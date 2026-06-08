@@ -1,0 +1,32 @@
+{
+	"Name": "Bala",
+	"Gender": "Male",
+	"DOB": "1988-08-25",
+	"Kids": ["Pavan", "Chandra"],
+	"Kids_School": ["Bhashyam", "Chaitanya"],	
+	"Address": {
+				"House_Number": "8-3-655",
+				"City": "Hyderabad",
+				"State": "Telangana" 
+	           },
+	"Phone": {
+			"Office": 9898787655,
+			"Personal": 9898787656
+	        }
+},
+{
+	"Name": "Jaya",
+	"Gender": "Female",
+	"DOB": "1988-09-12",
+	"Kids": ["Ravi", "Kiran","Swathi"],
+	"Kids_School": ["Narayana", "DPS","SLATE"],		
+	"Address": {
+		"House_Number": "8-3-656",
+		"City": "Banglore",
+		"State": "Karnataka" 
+	  },
+	"Phone": {
+		"Office": 9898787657,
+		"Personal": 9898787658
+	  }
+}

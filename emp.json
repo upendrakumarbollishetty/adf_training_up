@@ -1,0 +1,24 @@
+{
+  "DEPTNO": 20,
+  "EMPNO": 7369,
+  "ENAME": "SMITH",
+  "SAL": 50000
+},
+{
+  "DEPTNO": 10,
+  "EMPNO": 7788,
+  "ENAME": "Krishna",
+  "SAL": 80000
+},
+{
+  "DEPTNO": 20,
+  "EMPNO": 7799,
+  "ENAME": "Ravi",
+  "SAL": 80000
+},
+{
+  "DEPTNO": 30,
+  "EMPNO": 7865,
+  "ENAME": "Ramya",
+  "SAL": 80000
+}
